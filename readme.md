@@ -1,8 +1,8 @@
 # Examination Submission – Coupon Acceptance Prediction
 
-**Author:** [Your Name]  
+**Author:** Calin Cezar Popan 
 **Affiliation:** Sigmoid, Machine Learning Engineer Intern, Chișinău, Republic of Moldova  
-**Email:** [your.email@domain.com]  
+**Email:** calincezar2@gmail.com 
 **Date:** 27.10.2025  
 
 ---
